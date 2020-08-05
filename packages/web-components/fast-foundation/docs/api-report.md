@@ -133,6 +133,8 @@ export class Breadcrumb extends FASTElement {
 //
 // @public
 export class BreadcrumbItem extends FASTElement {
+    // @internal (undocumented)
+    defaultSlottedNodes: Node[];
     href: string;
     // @internal (undocumented)
     isCurrent: boolean;
