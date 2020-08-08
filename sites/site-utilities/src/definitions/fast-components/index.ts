@@ -2,6 +2,8 @@ export * from "./fast-accordion-item.definition";
 export * from "./fast-accordion.definition";
 export * from "./fast-anchor.definition";
 export * from "./fast-badge.definition";
+export * from "./fast-breadcrumb.definition";
+export * from "./fast-breadcrumb-item.definition";
 export * from "./fast-button.definition";
 export * from "./fast-card.definition";
 export * from "./fast-checkbox.definition";
